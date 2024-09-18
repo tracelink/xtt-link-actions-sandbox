@@ -14,8 +14,8 @@ parts:
 * Transform to map the data to or from TraceLink’s required canonical formats.
 * Configuration parameters to connect to the external system.
 
-The XTT Link Actions Sandbox is used in conjunction with the XTT Link Actions
-Test Tool to validate the Link Actions. These two tool make up the XTT Link
+The XTT Link Actions Sandbox is used in conjunction with the [XTT Link Actions Test Tool](https://github.com/tracelink/xtt-link-actions-test-tool) to validate
+the Link Actions. These two tool make up the XTT Link
 Actions Developer Kit.
 
 ## License
