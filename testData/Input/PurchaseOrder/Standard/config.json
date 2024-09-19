@@ -1,0 +1,9 @@
+{
+    "url": "https://123456.suitetalk.api.netsuite.com/services/rest/record/v1",
+    "netSuiteAccountId": "123456",
+    "erp": "Netsuite",
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "HH:MI:SS AM",
+    "dateTimeFormat": "YYYY-MM-DD HH:MI:SS AM",
+    "suiteQLURL": "https://123456.suitetalk.api.netsuite.com/services/rest/query/v1/suiteql"
+}
