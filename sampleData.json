@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "PURCHASEORDER",
+    "description": "This is a Purchase Order",
+    "memo": "This is a Purchase Order Memo"
+  },
+  {
+    "id": 2,
+    "type": "BLANKETPURACHSEORDER",
+    "description": "This is a Blanket Purchase Order",
+    "memo": "This is a Blanket Purchase Order Memo"
+  }
+]
