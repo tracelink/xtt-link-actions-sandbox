@@ -1,0 +1,393 @@
+{
+    "billAddress": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "billAddressList": {
+        "links": [],
+        "id": "6",
+        "refName": "baner"
+    },
+    "billingAddress": {
+        "addr1": "baner",
+        "addr2": "stree 2",
+        "addressee": "BM Ltd.",
+        "addrPhone": "+1235345",
+        "addrText": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+        "attention": "Tracelink",
+        "city": "pune",
+        "country": {
+            "id": "IN",
+            "refName": "India"
+        },
+        "override": false,
+        "state": "Maharashtre",
+        "zip": "411002"
+    },
+    "billingAddress_text": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "canBeUnapproved": true,
+    "canHaveStackable": false,
+    "checkNumber": "PO123",
+    "class": {
+        "id": "3",
+        "refName": "Expansion"
+    },
+    "createdDate": "2023-12-05T09:39:00Z",
+    "currency": {
+        "currencyPrecision": 2,
+        "displaySymbol": "$",
+        "exchangeRate": 1.0,
+        "formatSample": "$1,234.56",
+        "id": "1",
+        "isBaseCurrency": true,
+        "isInactive": false,
+        "lastModifiedDate": "2023-08-24T05:29:00Z",
+        "locale": {
+            "id": "en_US",
+            "refName": "United States (English)"
+        },
+        "name": "US Dollar",
+        "overrideCurrencyFormat": false,
+        "symbol": "USD",
+        "symbolPlacement": {
+            "id": "1",
+            "refName": "Before Number"
+        }
+    },
+    "customForm": {
+        "id": "68",
+        "refName": "Standard Sales Order"
+    },
+    "department": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/department/1"
+            }
+        ],
+        "id": "1",
+        "refName": "Exceptional"
+    },
+    "discountItem": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/discountitem/-6"
+            }
+        ],
+        "id": "-6",
+        "refName": "Partner Discount"
+    },
+    "discountRate": 0.0,
+    "discountTotal": 0.0,
+    "endDate": "2024-03-31",
+    "entity": {
+        "addressBook": {
+            "items": [
+                {
+                    "addressBookAddress": {
+                        "addr1": "baner",
+                        "addr2": "stree 2",
+                        "addressee": "BM Ltd.",
+                        "addrPhone": "+1235345",
+                        "addrText": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+                        "attention": "Tracelink",
+                        "city": "pune",
+                        "country": {
+                            "id": "IN",
+                            "refName": "India"
+                        },
+                        "override": false,
+                        "state": "Maharashtre",
+                        "zip": "411002"
+                    },
+                    "addressBookAddress_text": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+                    "addressId": "6",
+                    "defaultBilling": true,
+                    "defaultShipping": true,
+                    "id": 6,
+                    "internalId": 6,
+                    "isResidential": false,
+                    "label": "baner"
+                }
+            ],
+            "totalResults": 1
+        },
+        "aging": 0.0,
+        "aging1": 0.0,
+        "aging2": 0.0,
+        "aging3": 0.0,
+        "aging4": 0.0,
+        "alcoholRecipientType": {
+            "id": "CONSUMER",
+            "refName": "Consumer"
+        },
+        "balance": 0.0,
+        "companyName": "BM Ltd.",
+        "contactList": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/customer/24/contactList"
+                }
+            ]
+        },
+        "contactRoles": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/customer/24/contactRoles"
+                }
+            ]
+        },
+        "creditHoldOverride": {
+            "id": "AUTO",
+            "refName": "Auto"
+        },
+        "currency": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/currency/1"
+                }
+            ],
+            "id": "1",
+            "refName": "US Dollar"
+        },
+        "currencyList": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/customer/24/currencyList"
+                }
+            ]
+        },
+        "customForm": {
+            "id": "-2",
+            "refName": "Standard Customer Form"
+        },
+        "dateCreated": "2023-11-22T06:08:00Z",
+        "defaultAddress": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+        "depositBalance": 0.0,
+        "email": "testuser@xyz.com",
+        "emailPreference": {
+            "id": "DEFAULT",
+            "refName": "Default"
+        },
+        "emailTransactions": false,
+        "entityId": "1 BM Ltd.",
+        "entityStatus": {
+            "links": [],
+            "id": "13",
+            "refName": "CUSTOMER-Closed Won"
+        },
+        "faxTransactions": false,
+        "giveAccess": true,
+        "groupPricing": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/customer/24/groupPricing"
+                }
+            ]
+        },
+        "id": "24",
+        "isBudgetApproved": false,
+        "isInactive": false,
+        "isPerson": false,
+        "itemPricing": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/customer/24/itemPricing"
+                }
+            ]
+        },
+        "language": {
+            "id": "en_US",
+            "refName": "English (U.S.)"
+        },
+        "lastModifiedDate": "2024-02-13T10:00:00Z",
+        "overdueBalance": 0.0,
+        "partner": {
+            "links": [],
+            "id": "26",
+            "refName": "1 RSM Partner"
+        },
+        "printTransactions": false,
+        "receivablesAccount": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/account/-10"
+                }
+            ],
+            "id": "-10",
+            "refName": "Use System Preference"
+        },
+        "sendEmail": false,
+        "shipComplete": false,
+        "shippingCarrier": {
+            "id": "nonups",
+            "refName": "FedEx/USPS/More"
+        },
+        "startDate": "2024-03-20",
+        "subsidiary": {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/subsidiary/1"
+                }
+            ],
+            "id": "1",
+            "refName": "Honeycom"
+        },
+        "unbilledOrders": 5000.0
+    },
+    "exchangeRate": 1.0,
+    "handlingCost": 0.0,
+    "handlingMode": {
+        "id": "SAVE_ONLY",
+        "refName": "Save Only"
+    },
+    "id": "7",
+    "item": {
+        "items": [
+            {
+                "amount": 5000.0,
+                "commitInventory": {
+                    "id": "1",
+                    "refName": "Available Qty"
+                },
+                "commitmentFirm": false,
+                "excludeFromRateRequest": false,
+                "isClosed": false,
+                "isOpen": true,
+                "item": {
+                    "id": "13",
+                    "refName": "CUBICIN"
+                },
+                "itemType": {
+                    "id": "InvtPart",
+                    "refName": "InvtPart"
+                },
+                "line": 1,
+                "linked": false,
+                "marginal": false,
+                "price": {
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/pricelevel/-1"
+                        }
+                    ],
+                    "id": "-1",
+                    "refName": ""
+                },
+                "printItems": false,
+                "quantity": 100.0,
+                "quantityAvailable": 0.0,
+                "quantityBackOrdered": 100.0,
+                "quantityBilled": 0.0,
+                "quantityCommitted": 0.0,
+                "quantityFulfilled": 0.0,
+                "rate": 50.0,
+                "units": "2"
+            }
+        ],
+        "totalResults": 1
+    },
+    "lastModifiedDate": "2024-03-20T08:08:00Z",
+    "location": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/location/9"
+            }
+        ],
+        "id": "9",
+        "refName": "New York/ROC IT"
+    },
+    "memo": "memo",
+    "nextBill": "2024-03-20",
+    "opportunity": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/opportunity/612"
+            }
+        ],
+        "id": "612",
+        "refName": "Test Opportunity"
+    },
+    "orderStatus": {
+        "id": "B",
+        "refName": "Pending Fulfillment"
+    },
+    "otherRefNum": "PO123",
+    "partner": {
+        "links": [],
+        "id": "26",
+        "refName": "1 RSM Partner"
+    },
+    "prevDate": "2024-03-20",
+    "previousOpportunity": "612",
+    "salesEffectiveDate": "2024-03-20",
+    "shipAddress": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "shipAddressList": {
+        "links": [],
+        "id": "6",
+        "refName": "baner"
+    },
+    "shipComplete": true,
+    "shipDate": "2024-03-20",
+    "shipIsResidential": false,
+    "shipOverride": false,
+    "shippingAddress": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/salesorder/7/shippingAddress"
+            }
+        ]
+    },
+    "shippingAddress_text": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "shippingCostOverridden": true,
+    "startDate": "2024-03-21",
+    "status": {
+        "id": "B",
+        "refName": "Pending Fulfillment"
+    },
+    "subsidiary": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://2799237.suitetalk.api.netsuite.com/services/rest/record/v1/subsidiary/1"
+            }
+        ],
+        "id": "1",
+        "refName": "Honeycom"
+    },
+    "subtotal": 5000.0,
+    "terms": {
+        "dateDriven": {
+            "id": true,
+            "refName": "T"
+        },
+        "dayDiscountExpires": 2,
+        "dayOfMonthNetDue": 15,
+        "discountPercentDateDriven": 20.0,
+        "dueNextMonthIfWithinDays": 50,
+        "id": "8",
+        "isInactive": false,
+        "lastModifiedDate": "2023-11-22T11:38:00Z",
+        "longitemtype": "Term",
+        "name": "terms2",
+        "preferred": true,
+        "tname": "terms"
+    },
+    "toBeEmailed": false,
+    "toBeFaxed": false,
+    "toBePrinted": false,
+    "total": 5000.0,
+    "tranDate": "2024-03-20",
+    "tranId": "1",
+    "webStore": "F"
+}

@@ -1,0 +1,13 @@
+{
+    "startTime": 1676368101000,
+    "lastSuccessTime": 1676368101000,
+    "fetchStartTime": 1676368101000,
+    "fetchEndTime": 1704051900000,
+    "fetchedTillTime": 1710486783000,
+    "executionTimeInMillis": 123,
+    "lastFailed": {
+        "lastFailedTime": 1704051900000,
+        "id": "5",
+        "retryCount": 0
+    }
+}
